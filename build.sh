@@ -1,3 +1,3 @@
 #!/bin/sh
 
-docker build . -t panga/alpine:3.7-glibc2.25
+docker build . -t panga/alpine:3.8-glibc2.27
